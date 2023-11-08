@@ -146,7 +146,7 @@ stipulate functionality and improvements that can be implemented in the future.
 ![image10](./Mockup/Mockup7.png)
 
 ## Walkthrough
-<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1xgmkC0OvS-_fuqtiHQIZKY5BHqz9ktbV/view?usp=sharing">here</a></p>
+<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1BPAlK17Qcq-iCmH-v8GLfsTDAyrN2L4I/view?usp=sharing">here</a></p>
 
 ## Deployed Site
 To view the deployed website click on the name here: <a href="https://whirlpoolwebsite-2a63296493d8.herokuapp.com/login">Whirlpool</a>
